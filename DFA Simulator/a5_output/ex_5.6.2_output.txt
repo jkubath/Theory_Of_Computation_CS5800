@@ -1,0 +1,8 @@
+4
+[q1,q2]
+[q1,q2] [TRAP] [q1,q2]
+[q0,q1] [q0,q1] [q1,q2]
+[TRAP] [TRAP] [TRAP]
+[q0] [q0,q1] [TRAP]
+a b
+bbaaaaa

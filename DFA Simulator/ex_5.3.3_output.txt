@@ -1,0 +1,18 @@
+Running DFA
+Print Data
+Key  a    b    isFinal
+q1   q2   q4   true
+q2   q2   q3   false
+q3   q2   q5   false
+q4   q1   q5   true
+q5   q5   q5   true
+q0   q1   q4   true
+
+Input String: baabb
+[q0 -> baabb]
+[q4 -> aabb]
+[q1 -> abb]
+[q2 -> bb]
+[q3 -> b]
+[q5 -> ]
+ACCEPT
